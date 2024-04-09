@@ -1,0 +1,14 @@
+/*seletor pai  = oque for colocado nele, será aplicado na pagina inteira. incluisive na tag body*/
+
+*{
+    margin: 0;
+}
+.Corbrown{color:brown}
+
+#Mudanças{ color: blue;}
+
+
+/* para diferenciar os paragrafos e as cores, class= nome aos paragrafos, não dve se dar o mesmo nome
+
+.= para mais de um elemento (com o mesmo nome)
+# para ids (só para um único nome)
