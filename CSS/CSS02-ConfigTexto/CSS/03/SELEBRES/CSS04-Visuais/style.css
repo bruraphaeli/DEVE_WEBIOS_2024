@@ -1,0 +1,11 @@
+*{
+    margin:0;
+}
+
+#PrimeiroParagrafo{
+    border: 2px outset rgb(197, 35, 43);
+    border-color: burlywood ;
+    border-width: 2px;
+    border-style: dashed;
+}
+   
