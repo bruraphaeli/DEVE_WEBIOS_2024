@@ -1,0 +1,40 @@
+*{
+    margin-left:auto;
+    margin-right:auto;
+    background-color:#eefaa8
+    width
+
+}
+header{
+    background-color:#649ea7;
+    text-align:center;
+    border:1px #000000 solid;
+
+}
+body{
+    
+   font-family:"Rajdhani", sans-serif;
+   font-size:20px;
+
+   
+    
+    figure{
+        text-align: center;
+    
+    }
+    table{
+        border: 1px #000000 solid;
+    }
+
+    th{border: 1px #000000 solid}
+    color:8fbfb9 
+    
+
+}
+td{border: 1px #000000 solid;
+}
+
+img{
+    width:600px;
+    height:600px;
+}
