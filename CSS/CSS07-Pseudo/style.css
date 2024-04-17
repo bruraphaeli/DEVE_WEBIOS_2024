@@ -1,0 +1,45 @@
+p:first-child{
+    background-color: rgb(47, 7, 226);
+}
+
+p:nth-child(2){
+    background-color: violet;
+}
+
+
+#botao{
+    border:1px solid aquamarine;
+    background-color: aqua;
+    border-radius: 5px;
+}
+#botao:hover{
+    color:white;
+    background-color: rgb(45, 197, 224);
+    font-size: 100px;
+}
+
+
+#paragrafoHover:hover{
+    background-color: rgb(226, 60, 93);
+    color: rosybrown;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 50px
+}
+#titule2:houver{
+    font-family:"Jersey 10 Charted",sans-serif;
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+#imagem:hover{
+    box-shadow: 10px 10px 10px
+    aquamarine;
+    width: 700px;
+    height: 700px;
+}
+
+#pseudo::before{
+    content: 'ultilizando bafore - ';
+}
