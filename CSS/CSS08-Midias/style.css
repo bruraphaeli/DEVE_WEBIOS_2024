@@ -1,0 +1,41 @@
+img{
+    width: 700px;
+}
+
+
+
+@media(max-width:450px){
+    img{
+        width:200px;
+
+    }
+}
+
+img:hover{
+    border:1px solid blue;
+    border-radius:5px;
+    box-shadow: 10px 10px 10px rgb(64, 64, 218);
+}
+
+
+body{
+    background-color: aqua;
+}
+
+
+@media(min-width:452){
+    img{
+        width:250px;
+    }
+}
+
+img:hover{
+    border: 1px solid rgb(129, 9, 248);
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgb(176, 103, 248);
+}
+    
+
+    
+
+
