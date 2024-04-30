@@ -26,22 +26,10 @@ grid-template-rows:repeat(6, 5em);
    
 }
 
-.item4{
-    
-}
-
-.item5{
-    
-}
-
-.item6{
-    
-}
-
-.item7{
-    
-}
 
 .item8{
+    width: 50%;
+    height: 50%;
+    justify-self: stretch;
     
 }
