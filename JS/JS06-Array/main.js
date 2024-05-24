@@ -74,3 +74,4 @@ console.log (insereNoInicio)
 
 delete insereNoInicio[1]
 console.log(insereNoInicio)
+ ll

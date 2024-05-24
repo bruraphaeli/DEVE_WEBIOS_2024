@@ -26,3 +26,5 @@ delete bidi[3][1]
 console.log(bidi)
 var mudanca3 = bidi.push("pipoca")
 console.log(bidi)
+
+ll

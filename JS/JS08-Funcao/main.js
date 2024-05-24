@@ -49,6 +49,7 @@ console.clear()
 const clique = () => {
     alert("Bem-vindo você clicou em mim")
     console.log("Você clicou em um botão")
-    
+
 }
 
+ll
