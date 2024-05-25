@@ -54,4 +54,3 @@ let JSONITO = '{ "corDosOlhos": "verde", "altura": 1.7, "cobelo": "preto", "nome
 //volta para o objeto
 console.log(JSON.parse(JSONITO))
 
-çç
