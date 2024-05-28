@@ -1,13 +1,13 @@
 const numbers = [ 17, 43, 8, 4, 97, 56, 29 ];
 
-numbers.forEach(function(numbers) {
+numbers.forEach (numbers);
 
     if (numbers % 2 === 0) {
-        console.log(${numbers} é par);
+        console.log (valores,  "é par");
     } else {
-        console.log(${numbers} é ímpar);
-    }
-});
+        console.log(valores, "é ímpar" );
+    
+};
 
 
 //Exercicio 2:
